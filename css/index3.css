@@ -1,0 +1,183 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+a:link {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.centrado {
+  color: rgb(66,139,202);
+  text-align: center;
+  margin-top: 50px;
+}
+
+.cent2 {
+    padding: 20px;
+    top: -25px;
+    height: 500px;
+}
+
+.centered {
+  line-height: 1.1;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    font-size: 4em;
+    color: rgb(66,139,202);
+    filter: saturate(3);
+  }
+
+#cabecera {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/rawpixel-284723-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+  width: auto;
+  height: 100px;
+  background-color: rgb(66,139,202);
+}
+
+.c1 {
+  height: 1100px;
+}
+
+.novedades {
+  color: rgb(66,139,202);
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.prueba {
+  height: 300px;
+}
+
+.priCaja {
+    background-image: url("../img/bernard-hermant-665070-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(75%);
+    height: 300px;
+}
+
+.priCaja:hover {
+  filter: saturate(2);
+  transition: 0.5s ease;
+}
+
+.segCaja {
+    background-image: url("../img/joanna-kosinska-129039-unsplash.jpg");
+    filter: grayscale(75%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.segCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.terCaja {
+  background-image: url("../img/charles-deluvio-575243-unsplash.jpg");
+  filter: grayscale(75%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+
+.terCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.cuarCaja {
+  background-image: url("../img/moren-hsu-359121-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(75%);
+  height: 300px;
+}
+
+.cuarCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.quinCaja {
+  background-image: url("../img/chuttersnap-710335-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(75%);
+  height: 300px;
+}
+
+.quinCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.sexCaja {
+  background-image: url("../img/thought-catalog-217861-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(75%);
+  height: 300px;
+}
+
+.sexCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.sepCaja {
+  background-image: url("../img/rawpixel-668354-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(75%);
+  height: 300px;
+}
+
+.sepCaja:hover {
+  filter: saturate(1);
+  transition: 0.5s ease;
+}
+
+.icoN {
+  display: block;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70px;
+}
+
+footer {
+  width: auto;
+  height: 150px;
+  background-color: rgb(66,139,202);
+}
+
+#footerP {
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+}
