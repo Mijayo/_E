@@ -8,9 +8,9 @@ a:link {
 }
 
 .centrado {
-  color: rgb(66,139,202);
-  text-align: center;
-  margin-top: 50px;
+    color: rgb(66, 139, 202);
+    text-align: center;
+    margin-top: 50px;
 }
 
 .cent2 {
@@ -20,25 +20,24 @@ a:link {
 }
 
 .centered {
-  line-height: 1.1;
+    line-height: 1.1;
     position: absolute;
     top: 50%;
     left: 5%;
     font-size: 4em;
-    color: rgb(66,139,202);
+    color: rgb(66, 139, 202);
     filter: saturate(3);
-  }
+}
 
 #cabecera {
     width: 100%;
     height: 100vh;
-    background-image: url("../img/rawpixel-633846-unsplash.jpg");
+    background-image: url("../img/_lowKB/rawpixel-633846-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     object-position: 5px 10%;
 }
-
 
 #logo {
     width: 50px;
@@ -54,7 +53,7 @@ a:link {
     text-align: center;
     text-transform: uppercase;
     font-size: 11px;
-    color:  rgb(66,139,202);
+    color: rgb(66, 139, 202);
 }
 
 .pCursos2 {
@@ -72,25 +71,25 @@ a:link {
 }
 
 .m1 {
-  height: 600px;
+    height: 600px;
 }
 
 .icoN {
-  display: block;
-  padding-top: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70px;
+    display: block;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
 }
 
 footer {
-  width: auto;
-  height: 150px;
-  background-color: rgb(66,139,202);
+    width: auto;
+    height: 150px;
+    background-color: rgb(66, 139, 202);
 }
 
 #footerP {
-  text-align: center;
-  color: white;
-  padding-top: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
 }
